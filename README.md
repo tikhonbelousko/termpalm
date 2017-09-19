@@ -1,4 +1,6 @@
-## 🤦‍♀️
+## Termpalm 🤦‍♀️
+![Termpalm](https://github.com/DaZzz/termpalm/blob/master/demo.gif?raw=true)
+
 
 Termpalm is a slightly modified verision of original robbyrussel zsh theme.
 Although original theme is nearly perfect, I decided to make it even better with
